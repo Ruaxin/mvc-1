@@ -1,0 +1,16 @@
+#app1 {
+    width: 50vw;
+    height: 50vh;
+}
+
+#app1 .cal {
+    border: 1px solid black;
+    margin-top: 5vw;
+    margin-left: 5vw;
+    width: 10vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
